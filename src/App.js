@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <p>Master changes</p>
+      <p>Feature changes</p>
     </div>
   );
 }
