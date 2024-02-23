@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <p>Latest feature added</p>
       <p>Bug fixed hotfix</p>
+      <p>New release ready!!!</p>
     </div>
   );
 }
