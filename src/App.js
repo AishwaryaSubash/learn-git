@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>Feature changes</p>
+      <p>New feature added</p>
     </div>
   );
 }
