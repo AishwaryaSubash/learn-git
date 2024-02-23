@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <p>Latest feature added</p>
+      <p>Bug fixed hotfix</p>
     </div>
   );
 }
