@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <p>New repository</p>
+      <p>Repository status is changed</p>
     </div>
   );
 }
